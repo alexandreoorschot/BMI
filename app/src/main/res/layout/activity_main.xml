@@ -79,6 +79,6 @@
         android:textSize="24sp"
         android:textStyle="bold"
         android:layout_marginTop="30dp"
-        android:layout_below="@+id/btn_compute"
+    android:layout_below="@+id/btn_compute"
         />
 </RelativeLayout>
